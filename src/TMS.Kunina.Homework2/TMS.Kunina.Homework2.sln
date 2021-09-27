@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatDayIsToday", "WhatDayIsToday.csproj", "{DA956911-62D3-4D7D-8A64-1774A64E7C59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMS.Kunina.Homework2", "TMS.Kunina.Homework2.csproj", "{30C89F80-5876-4AE4-B23C-9D017C3B3B39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DA956911-62D3-4D7D-8A64-1774A64E7C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DA956911-62D3-4D7D-8A64-1774A64E7C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DA956911-62D3-4D7D-8A64-1774A64E7C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DA956911-62D3-4D7D-8A64-1774A64E7C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30C89F80-5876-4AE4-B23C-9D017C3B3B39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C89F80-5876-4AE4-B23C-9D017C3B3B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C89F80-5876-4AE4-B23C-9D017C3B3B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C89F80-5876-4AE4-B23C-9D017C3B3B39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E0C5A4ED-A8E5-4024-88A2-3F0E9A812A68}
+		SolutionGuid = {D9FE3343-37BA-46B7-AAF2-4F6B1416F42E}
 	EndGlobalSection
 EndGlobal
