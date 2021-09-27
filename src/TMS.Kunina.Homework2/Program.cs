@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace WhatDayIsToday
+namespace Homework2
 {
     class Program
     {
